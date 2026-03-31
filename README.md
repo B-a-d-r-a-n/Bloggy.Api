@@ -95,15 +95,6 @@ Follow these instructions to get the API server running on your local machine fo
     npm run seed
     ```
 
-The API server will be available at `http://localhost:3000`.
-
----
-
-## 📚 API Documentation
-
-Once the server is running in development mode, you can access the complete, interactive API documentation at:
-
-**[http://localhost:3000/api-docs](http://localhost:3000/api-docs)**
 
 This Swagger UI page allows you to explore all available endpoints, see their required parameters and response schemas, and even execute live API calls directly from your browser.
 
